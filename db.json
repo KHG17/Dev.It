@@ -1,0 +1,15 @@
+{
+    "services": [{ "id": 1, "title": "I will teach you how to solve algorithms.", 
+      "thumbnailUrl": "http://localhost:9000/coder-1.jpg", "rate": 34,
+      "rating": 4, "specialist": { "id": 1, "fullName": "John Doe1" }},
+      { "id": 2, "title": "I will create an amazing website for you.", 
+        "thumbnailUrl": "http://localhost:9000/coder-2.jpg", "rate": 50,
+        "rating": 3, "specialist": { "id": 1, "fullName": "John Doe2" }},
+        { "id": 3, "title": "I will help you develop mobile apps.", 
+          "thumbnailUrl": "http://localhost:9000/coder-3.jpg", "rate": 42,
+          "rating": 5, "specialist": { "id": 1, "fullName": "John Doe3" }},
+          { "id": 4, "title": "I will teach you how to code.", 
+            "thumbnailUrl": "http://localhost:9000/coder-4.jpg", "rate": 50,
+            "rating": 5, "specialist": { "id": 1, "fullName": "John Doe4" }}
+    ]
+}
